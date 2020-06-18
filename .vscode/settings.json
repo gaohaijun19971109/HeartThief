@@ -1,0 +1,12 @@
+{
+    "css.fileExtensions": [
+
+        "css",
+        "scss"
+    ],
+    "less.compile": {
+
+        "outExt": ".wxss"
+
+    }
+}

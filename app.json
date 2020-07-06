@@ -12,7 +12,8 @@
     "pages/feedback/index",
     "pages/login/index",
     "pages/auth/index",
-    "pages/pay/index"
+    "pages/pay/index",
+    "pages/git/git"
   ],
   "window": {
     "backgroundTextStyle": "dark",
@@ -44,13 +45,14 @@
         "text": "购物车",
         "iconPath": "icons/car_1.png",
         "selectedIconPath": "icons/car.png"
-      }, {
+      },
+      {
         "pagePath": "pages/user/index",
         "text": "我的",
         "iconPath": "icons/people_1.png",
         "selectedIconPath": "icons/people.png"
       }
     ]
-  },   
+  },
   "sitemapLocation": "sitemap.json"
 }
